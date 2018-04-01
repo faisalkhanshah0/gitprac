@@ -28,3 +28,6 @@ git reflog
 git checkout HEAD@{1}
 but it will open these changes as a new branch
 
+
+extra code to delete
+ asdfasdf
