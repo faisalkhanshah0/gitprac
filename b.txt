@@ -2,13 +2,12 @@ first commit.
 
 second commit.  stash
 
+<<<<<<< HEAD
 
 to revert: - 
 git reset --hard commitid asdf
+=======
+git reset --hard commitid
+>>>>>>> parent of 7b3655a... 3rd
 
 git push -f origin master
-
-to show heads : - 
-git reflog
-
-git checkout HEAD@{2}
