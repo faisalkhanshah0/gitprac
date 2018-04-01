@@ -4,7 +4,7 @@ second commit.  stash
 
 
 to revert: - 
-git reset --hard commitid
+git reset --hard commitid asdf
 
 git push -f origin master
 
