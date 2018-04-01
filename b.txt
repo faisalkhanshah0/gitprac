@@ -2,6 +2,13 @@ first commit.
 
 second commit.  stash
 
+
+to revert: - 
 git reset --hard commitid
 
 git push -f origin master
+
+to show heads : - 
+git reflog
+
+git checkout HEAD@{2}
